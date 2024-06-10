@@ -7,9 +7,9 @@
 - 🤓 In addition to my technical interests, I am an avid reader. I enjoy immersing myself in books, ranging from computer science to science fiction, which extend my perspective and inspire my creativity.
 
 # Skills
-- **Programming Languages**: C, Java, Python, JavaScript
-- **Web development**: HTML, CSS, Javascript, MYSQL
+- **Programming Languages**: C/C++, Java, Python
+- **Web development**: HTML, CSS, Javascript, MYSQL, Apache Tomcat, GlassFish
 - **Frameworks and Libraries**: Android Studio, JQuery, Flask
-- **Tools and Platforms**: Git, Docker, Linux/Unix
+- **Tools and Platforms**: Git, Docker, Linux/Unix, Selenium, Mockito, JUnit
 
 ![](https://komarev.com/ghpvc/?tatore02&color=orange)
