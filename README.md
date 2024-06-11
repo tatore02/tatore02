@@ -12,4 +12,4 @@
 - **Frameworks and Libraries**: Android Studio, JQuery, Flask
 - **Tools and Platforms**: Git, Docker, Linux/Unix, Selenium, Mockito, JUnit
 
-![](https://komarev.com/ghpvc/?tatore02&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?tatore02&color=orange)
