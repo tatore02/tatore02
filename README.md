@@ -4,4 +4,4 @@
 - 👨‍💻 **LeetCode** solver (before LLMs)
 
 ![](https://leetcard.jacoblin.cool/tatore02?border=0&radius=20)
-- :books: Book reader
+- :books: Avid book reader
